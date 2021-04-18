@@ -443,7 +443,7 @@ textarea .form-control{
 
 /* *************** MEDIA ***************** */
 
-@media(max-width:768px){
+/* @media(max-width:768px){
   .contacts{
     overflow-x: hidden;
   }
@@ -455,4 +455,4 @@ textarea .form-control{
   .contacts p{
     padding: 0 0.4rem;
   }
-}
+} */
