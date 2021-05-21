@@ -1,7 +1,7 @@
 import React from 'react'
 import Typed from "react-typed";
 import {Link} from "react-scroll"
-import Mahir_Khandaker_Resume from "./Mahir_Khandaker_Resume.pdf"
+import Mahir_Khandaker_Resume from "./MahirKhandakerResume_.pdf"
 
 
 const Header = () => {
