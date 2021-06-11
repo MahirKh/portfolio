@@ -32,10 +32,10 @@ const Header = () => {
         >
           <p>Download Resume</p>
         </a>
-        <div className="row">
+        {/* <div className="row">
           <div>{linkedin}</div>
           <div>Hello</div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
